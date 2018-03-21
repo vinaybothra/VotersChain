@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1448px" height="178px" viewBox="0 0 1448 178" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Header</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="169.845591"></rect>
+        <filter x="-0.5%" y="-2.9%" width="101.0%" height="108.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="onboarding-header" transform="translate(4.000000, 2.000000)">
+            <g id="Header">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                    <use fill="#004A83" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M-498,133.557201 C-426.336559,80.4290871 -276.418804,72.7707893 -48.2467351,110.582307 C294.011368,167.299584 232.266966,81.3545345 715.760452,88.4038259 C1199.25394,95.4531174 1128.66139,165.139715 1491.9727,110.582307 C1734.18023,74.2107022 1734.18023,94.3503689 1491.9727,171.001307 L-457.132024,171.001307 L-498,133.557201 Z" id="Path-4" fill="#FFFFFF" opacity="0.347316576" style="mix-blend-mode: overlay;" mask="url(#mask-2)"></path>
+                <path d="M-517,104.562018 C-349.06977,132.064779 -188.996942,132.064779 -36.7815164,104.562018 C191.541622,63.3078765 268.239563,120.273634 464.411119,126.855183 C660.582675,133.436732 728.580031,49.8198429 886.307759,63.2696487 C1044.03549,76.7194546 1124.61733,160.761158 1247.9854,126.855183 C1330.23077,104.251199 1437.25164,80.6328052 1569.04801,56 L1569.04801,174.531591 L-517,174.531591 L-517,104.562018 Z" id="Path-5" fill="#FFFFFF" opacity="0.153306159" style="mix-blend-mode: overlay;" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
